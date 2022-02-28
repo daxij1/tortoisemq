@@ -41,7 +41,7 @@ bin/zkServer.sh start conf/zoo.cfg
 
 ### 2.2 安装broker
 
-下载[tortoisemq-1.0.0-release.zip](https://gitee.com/yh1996/tortoisemq/attach_files/972279/download/tortoisemq-1.0.0.zip)
+下载[tortoisemq-1.0.0-release.zip](https://gitee.com/yh1996/tortoisemq/attach_files/980832/download/tortoisemq-1.0.0.zip)
 
 解压，修改conf/broker.properties配置
 
