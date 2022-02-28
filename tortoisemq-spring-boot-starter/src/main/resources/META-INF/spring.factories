@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.spoor.tortoisemq.autoconfigure.TortoiseMQAutoConfiguration
